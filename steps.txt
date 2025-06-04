@@ -1,0 +1,3 @@
+-> Applying continuous Ingestion
+    1. First we clone a repo from github
+    2. Now we create to folders inside our repo ".github" and then inside this folder another folder "workflows" (make sure the names should be exactly the same )
