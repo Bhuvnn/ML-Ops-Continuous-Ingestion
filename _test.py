@@ -6,11 +6,11 @@ def square(n):
 def cube(n):
     return n**3
 
-def test_square(n):
+def test_square():
     assert square(2)==4, "Test Failed: square of 2 should be 4"
     assert square(3)==9, "Test Failed: square of 3 should be 9"
 
-def test_cube(n):
+def test_cube():
     assert cube(2)==8, "Test Failed: Cube of 2 should be 8"
     assert cube(3)==27, "Test Failed: Cube of 3 should be 27"
     
